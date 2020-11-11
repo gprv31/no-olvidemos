@@ -847,6 +847,10 @@
 				width: 25%;
 			}
 
+				.gallery .content .media.hidden {
+					display: none;
+				}
+
 				.gallery .content .media a {
 					display: block;
 				}
