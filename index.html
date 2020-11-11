@@ -31,13 +31,25 @@
 					<!-- Gallery -->
 						<section id="galleries">
 							<form id=filters>
+								<label for="partido">Partidos</label>
 								<select id="partido">
-									<option value="Accion Popular">Accion Popular</option>
+									<option value="">Todos</option>
+									<option value="Acción Popular">Acción Popular</option>
 									<option value="Alianza para el Progreso">Alianza para el Progreso</option>
-									<option value="FREPAP">FREPAP</option>
 									<option value="Frente Amplio">Frente Amplio</option>
-									git remote add origin https://https://github.com/benjymb/no-olvidemos.git
-									
+									<option value="FREPAP">FREPAP</option>
+									<option value="Fuerza Popular">Fuerza Popular</option>
+									<option value="Podemos Perú">Podemos Perú</option>
+									<option value="Somos Perú">Somos Perú</option>
+									<option value="Unión por el Perú">Unión por el Perú</option>
+								</select>
+								<label for="nombre">Congresistas</label>
+								<input type="text" id="nombre" />
+								<label for="votacion">Votacion</label>
+								<select id="votacion">
+									<option value="">Todos</option>
+									<option value="A FAVOR">A favor</option>
+									<option value="ABSTENCIÓN">Abstención</option>
 								</select>
 							</form>	
 							<!-- Photo Galleries -->
@@ -519,6 +531,7 @@
 			<script src="assets/js/jquery.scrolly.min.js"></script>
 			<script src="assets/js/skel.min.js"></script>
 			<script src="assets/js/util.js"></script>
+			<script src="assets/js/filter_hdps.js"></script>
 			<script src="assets/js/main.js"></script>
 
 	</body>

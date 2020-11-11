@@ -18,6 +18,30 @@
 
 		var	$window = $(window),
 			$body = $('body');
+			$partido = $('#partido');
+			$nombre = $('#nombre');
+			$votacion = $('#votacion');
+
+			$partido.on('change', function() {
+				clearCongresistas();
+				if (this.value) {
+					filterByPartido(this.value);
+				}
+			});
+
+			$nombre.on('input', function() {
+				clearCongresistas();
+				if (this.value) {
+					filterByNombre(this.value);
+				}
+			});
+
+			$votacion.on('change', function() {
+				clearCongresistas();
+				if (this.value) {
+					filterByVotacion(this.value);
+				}
+			});
 
 		// Disable animations/transitions until the page has loaded.
 			$body.addClass('is-loading');
