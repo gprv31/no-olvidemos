@@ -1,527 +1,668 @@
 [
     {
+        "img": "congre/manuel_merino.jpg",
+        "nombre": "Manuel Merino De Lama",
+        "partido": "Acción Popular",
+        "voto": "A"
+    },
+    {
         "img": "congre/peri_rivas.jpg",
         "nombre": "Perci Rivas Ocejo",
-        "partido": "Alianza por el progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
         "img": "congre/ruben_ramos.jpg",
         "nombre": "Rubén Ramos Zapana",
-        "partido": "Unión por el Perú"
+        "partido": "Unión por el Perú",
+        "voto": "F"
     },
     {
         "img": "congre/jose_vega.jpg",
         "nombre": "José Alejandro Vega Antonio",
-        "partido": "Unión por el Perú"
+        "partido": "Unión por el Perú",
+        "voto": "F"
     },
     {
         "img": "congre/ruben_pantoja.jpeg",
         "nombre": "Rubén Pantoja Calvo",
-        "partido": "Unión por el Perú"
+        "partido": "Unión por el Perú",
+        "voto": "F"
     },
     {
         "img": "congre/javier_marquina.jpg",
         "nombre": "Javier Mendoza Marquina",
-        "partido": "Unión por el Perú"
+        "partido": "Unión por el Perú",
+        "voto": "F"
     },
     {
         "img": "congre/simon_maquera.png",
         "nombre": "Héctor Simón Maquera Chávez",
-        "partido": "Unión por el Perú"
+        "partido": "Unión por el Perú",
+        "voto": "F"
     },
     {
         "img": "congre/ali_mamani.jpg",
         "nombre": "Jim Ali Mamani Barriga",
-        "partido": "Unión por el Perú"
+        "partido": "No Agrupados",
+        "voto": "F"
     },
     {
         "img": "congre/alexander_lozano.jpg",
         "nombre": "Alexander Lozano Inostroza",
-        "partido": "Unión por el Perú"
+        "partido": "Unión por el Perú",
+        "voto": "F"
     },
     {
         "img": "congre/yessica_apaza.jpeg",
         "nombre": "Yessica Marisela Apaza Quispe",
-        "partido": "Unión por el Perú"
+        "partido": "Unión por el Perú",
+        "voto": "F"
     },
     {
         "img": "congre/roberto_vilcatoma.jpg",
         "nombre": "Roberto Carlos Chavarría Vilcatoma",
-        "partido": "Unión por el Perú"
+        "partido": "Unión por el Perú",
+        "voto": "F"
     },
     {
         "img": "congre/hipolito_chalna.jpeg",
         "nombre": "Hipólito Chaiña Contreras",
-        "partido": "Unión por el Perú"
+        "partido": "Unión por el Perú",
+        "voto": "F"
     },
     {
         "img": "congre/pose_chagua.jpg",
-        "nombre": "Posemoscrowte Chagua Payano",
-        "partido": "Unión por el Perú"
+        "nombre": "Posemoscrowte Irrhoscopt Chagua Payano",
+        "partido": "Unión por el Perú",
+        "voto": "F"
     },
     {
         "img": "congre/grimaldo_vasquez.jpeg",
         "nombre": "Grimaldo Vásquez Tan",
-        "partido": "Somos Perú"
+        "partido": "Somos Perú",
+        "voto": "F"
     },
     {
         "img": "congre/maria_bartolo.jpg",
         "nombre": "María Isabel Bartolo Romero",
-        "partido": "Unión por el Perú"
+        "partido": "Unión por el Perú",
+        "voto": "F"
     },
     {
         "img": "congre/edgar_alarcon.jpeg",
         "nombre": "Edgar Arnold Alarcón Tejada",
-        "partido": "Unión por el Perú"
+        "partido": "Unión por el Perú",
+        "voto": "F"
     },
     {
         "img": "congre/mariano_yupanqui.jpg",
         "nombre": "Mariano Andrés Yupanqui Miñano",
-        "partido": "Somos Perú"
+        "partido": "Somos Perú",
+        "voto": "F"
     },
     {
         "img": "congre/felicita_tocto.jpeg",
         "nombre": "Felicita Madaleine Tocto Guerrero",
-        "partido": "Somos Perú"
+        "partido": "Somos Perú",
+        "voto": "F"
     },
     {
         "img": "congre/cesar_gonzales.jpg",
         "nombre": "César Gonzales Tuanama",
-        "partido": "Somos Perú"
+        "partido": "No Agrupados",
+        "voto": "F"
     },
     {
         "img": "congre/betto_barrionuevo.jpg",
         "nombre": "Betto Barrionuevo Romero",
-        "partido": "Somos Perú"
+        "partido": "Somos Perú",
+        "voto": "F"
     },
     {
         "img": "congre/guillermo_aliaga.jpg",
         "nombre": "Guillermo Alejandro Aliaga Pajares",
-        "partido": "Somos Perú"
+        "partido": "Somos Perú",
+        "voto": "F"
     },
     {
         "img": "congre/hirma_alencastre.jpeg",
         "nombre": "Hirma Norma Alencastre Miranda",
-        "partido": "Somos Perú"
+        "partido": "Somos Perú",
+        "voto": "F"
     },
     {
         "img": "congre/orestes_sanchez.jpg",
         "nombre": "Orestes Pompeyo Sánchez Luis",
-        "partido": "Podemos Perú"
+        "partido": "Podemos Perú",
+        "voto": "F"
     },
     {
         "img": "congre/robinson_gupioc.jpg",
         "nombre": "Robinson Dociteo Gupioc Ríos",
-        "partido": "Podemos Perú"
+        "partido": "Podemos Perú",
+        "voto": "F"
     },
     {
         "img": "congre/cecilia_garcia.jpg",
         "nombre": "Cecilia García Rodríguez",
-        "partido": "Podemos Perú"
+        "partido": "Podemos Perú",
+        "voto": "F"
     },
     {
         "img": "congre/maria_gallardo.jpg",
         "nombre": "María Martina Gallardo Becerra",
-        "partido": "Podemos Perú"
+        "partido": "Podemos Perú",
+        "voto": "F"
     },
     {
         "img": "congre/johan_flores.jpg",
         "nombre": "Johan Flores Villegas",
-        "partido": "Podemos Perú"
+        "partido": "Podemos Perú",
+        "voto": "F"
     },
     {
         "img": "congre/yeremi_espinoza.png",
         "nombre": "Yéremi Aron Espinoza Velarde",
-        "partido": "Podemos Perú"
+        "partido": "Podemos Perú",
+        "voto": "F"
     },
     {
         "img": "congre/jorge_perez.jpg",
         "nombre": "Jorge Luis Pérez Flores",
-        "partido": "Somos Perú"
+        "partido": "Somos Perú",
+        "voto": "F"
     },
     {
         "img": "congre/luis_castillo.jpg",
         "nombre": "Luis Felipe Castillo Oliva",
-        "partido": "Podemos Perú"
+        "partido": "Podemos Perú",
+        "voto": "F"
     },
     {
         "img": "congre/maria_cabrera.jpg",
         "nombre": "María Teresa Cabrera Vega",
-        "partido": "Podemos Perú"
+        "partido": "Podemos Perú",
+        "voto": "F"
     },
     {
         "img": "congre/carlos_almeri.jpg",
         "nombre": "Carlos Alberto Almerí Veramendi",
-        "partido": "Podemos Perú"
+        "partido": "Podemos Perú",
+        "voto": "F"
     },
     {
         "img": "congre/maria_retamozo.jpg",
         "nombre": "María Cristina Retamozo Lezama",
-        "partido": "FREPAP"
+        "partido": "FREPAP",
+        "voto": "F"
     },
     {
         "img": "congre/isaias_pineda.jpg",
         "nombre": "Isaías Pineda Santos",
-        "partido": "FREPAP"
+        "partido": "FREPAP",
+        "voto": "F"
     },
     {
         "img": "congre/alcides_marin.jpg",
         "nombre": "Alcides Rayme Marín",
-        "partido": "FREPAP"
+        "partido": "FREPAP",
+        "voto": "F"
     },
     {
         "img": "congre/raul_machaca.jpg",
         "nombre": "Raúl Machaca Mamani",
-        "partido": "FREPAP"
+        "partido": "FREPAP",
+        "voto": "F"
     },
     {
         "img": "congre/daniel_oseda.jpg",
         "nombre": "Daniel Oseda Yucra",
-        "partido": "FREPAP"
+        "partido": "FREPAP",
+        "voto": "F"
     },
     {
         "img": "congre/jesus_nunez.jpg",
         "nombre": "Jesús del Carmen Núñez Marreros",
-        "partido": "FREPAP"
+        "partido": "FREPAP",
+        "voto": "F"
     },
     {
         "img": "congre/nelly_machaca.jpg",
         "nombre": "Nelly Huamani Machaca",
-        "partido": "FREPAP"
+        "partido": "FREPAP",
+        "voto": "F"
     },
     {
         "img": "congre/juan_huaman.jpg",
         "nombre": "Juan de Dios Huamán Champi",
-        "partido": "FREPAP"
+        "partido": "FREPAP",
+        "voto": "F"
     },
     {
         "img": "congre/robledo_gutarra.jpg",
         "nombre": "Robledo Noe Gutarra Ramos",
-        "partido": "FREPAP"
+        "partido": "FREPAP",
+        "voto": "F"
     },
     {
         "img": "congre/maria_cespedes.jpg",
         "nombre": "María Céspedes Cárdenas de Velásquez",
-        "partido": "FREPAP"
+        "partido": "FREPAP",
+        "voto": "F"
     },
     {
         "img": "congre/wilmer_cayllahua.jpg",
         "nombre": "Wilmer Cayllahua Barrientos",
-        "partido": "FREPAP"
+        "partido": "FREPAP",
+        "voto": "F"
     },
     {
         "img": "congre/luz_cayguaray.jpg",
         "nombre": "Luz Milagros Cayguaray Gambini",
-        "partido": "FREPAP"
+        "partido": "FREPAP",
+        "voto": "F"
     },
     {
         "img": "congre/alfredo_benites.jpg",
         "nombre": "Alfredo Benites Agurto",
-        "partido": "FREPAP"
+        "partido": "FREPAP",
+        "voto": "F"
     },
     {
         "img": "congre/julia_ayquipa.jpg",
         "nombre": "Julia Benigna Ayquipa Torres",
-        "partido": "FREPAP"
+        "partido": "FREPAP",
+        "voto": "F"
     },
     {
         "img": "congre/miguel_vivanco.jpg",
         "nombre": "Miguel Ángel Vivanco Reyes",
-        "partido": "Fuerza Popular"
+        "partido": "Fuerza Popular",
+        "voto": "F"
     },
     {
         "img": "congre/edward_zarate.jpg",
         "nombre": "Edward Alexander Zárate Antón",
-        "partido": "Fuerza Popular"
+        "partido": "Fuerza Popular",
+        "voto": "F"
     },
     {
         "img": "congre/widman_vigo.jpg",
         "nombre": "Widman Napoleón Vigo Gutiérrez",
-        "partido": "Fuerza Popular"
+        "partido": "Fuerza Popular",
+        "voto": "F"
     },
     {
         "img": "congre/valeria_valer.jpg",
         "nombre": "Valeria Carolina Valer Collado",
-        "partido": "Fuerza Popular"
+        "partido": "Fuerza Popular",
+        "voto": "F"
     },
     {
         "img": "congre/erwin_ortega.jpg",
         "nombre": "Erwin Tito Ortega",
-        "partido": "Fuerza Popular"
+        "partido": "Fuerza Popular",
+        "voto": "F"
     },
     {
         "img": "congre/maria_silupu.jpeg",
         "nombre": "María Luisa Silupú Inga",
-        "partido": "Fuerza Popular"
+        "partido": "Fuerza Popular",
+        "voto": "F"
     },
     {
         "img": "congre/liliana_pinedo.jpg",
         "nombre": "Liliana Angélica Pinedo Achaca",
-        "partido": "Fuerza Popular"
+        "partido": "Fuerza Popular",
+        "voto": "F"
     },
     {
         "img": "congre/gilmer_zegarra.jpg",
         "nombre": "Gílmer Trujillo Zegarra",
-        "partido": "Fuerza Popular"
+        "partido": "Fuerza Popular",
+        "voto": "F"
     },
     {
         "img": "congre/marcos_pichi.jpg",
         "nombre": "Marcos Antonio Pichilingue Gómez",
-        "partido": "Fuerza Popular"
+        "partido": "Fuerza Popular",
+        "voto": "F"
     },
     {
         "img": "congre/carlos_mesia.jpg",
         "nombre": "Carlos Fernando Mesía Ramírez",
-        "partido": "Fuerza Popular"
+        "partido": "Fuerza Popular",
+        "voto": "F"
     },
     {
         "img": "congre/martires_lizana.jpeg",
         "nombre": "Mártires Lizana Santos",
-        "partido": "Fuerza Popular"
+        "partido": "Fuerza Popular",
+        "voto": "F"
     },
     {
         "img": "congre/diethell_murata.jpg",
         "nombre": "Diethell Columbus Murata",
-        "partido": "Fuerza Popular"
+        "partido": "Fuerza Popular",
+        "voto": "F"
     },
     {
         "img": "congre/absalon_montoya.jpg",
         "nombre": "Absalón Montoya Guivin",
-        "partido": "Frente Amplio"
+        "partido": "Frente Amplio",
+        "voto": "F"
     },
     {
         "img": "congre/rita_ayasta.jpg",
         "nombre": "Rita Elena Ayasta de Díaz",
-        "partido": "Fuerza Popular"
+        "partido": "Fuerza Popular",
+        "voto": "F"
     },
     {
         "img": "congre/gilbert_fernandez.jpg",
         "nombre": "Gilbert Juan Alonzo Fernández",
-        "partido": "Fuerza Popular"
+        "partido": "Fuerza Popular",
+        "voto": "F"
     },
     {
         "img": "congre/yvan_quispe.jpg",
         "nombre": "Yván Quispe Apaza",
-        "partido": "Frente Amplio"
+        "partido": "Frente Amplio",
+        "voto": "F"
     },
     {
         "img": "congre/martha_chavez.jpg",
         "nombre": "Martha Gladys Chávez Cossío",
-        "partido": "Fuerza Popular"
+        "partido": "Fuerza Popular",
+        "voto": "F"
     },
     {
         "img": "congre/carlos_fernandez.jpg",
         "nombre": "Carlos Enrique Fernández Chacón",
-        "partido": "Frente Amplio"
+        "partido": "Frente Amplio",
+        "voto": "F"
     },
     {
         "img": "congre/lenin_checco.jpg",
         "nombre": "Lenin Abraham Checco Chauca",
-        "partido": "Frente Amplio"
+        "partido": "Frente Amplio",
+        "voto": "F"
     },
     {
         "img": "congre/jose_acalle.jpg",
         "nombre": "José Luis Ancalle Gutierrez",
-        "partido": "Frente Amplio"
+        "partido": "Frente Amplio",
+        "voto": "F"
     },
     {
         "img": "congre/marco_verde.jpeg",
         "nombre": "Marco Antonio Verde Heidinger",
-        "partido": "Alianza para el Progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
         "img": "congre/luis_valdez.jpg",
         "nombre": "Luis Alberto Valdez Farías",
-        "partido": "Alianza para el Progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
         "img": "congre/robertina_paredes.jpg",
         "nombre": "Robertina Santillana Paredes",
-        "partido": "Alianza para el Progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
         "img": "congre/tania_rodas.jpg",
         "nombre": "Tania Rosalía Rodas Malca",
-        "partido": "Alianza para el Progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
         "img": "congre/mario_quispe.jpg",
         "nombre": "Mario Javier Quispe Suárez",
-        "partido": "Alianza para el Progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
         "img": "congre/napoleon_puno.jpg",
         "nombre": "Napoleón Puño Lecarnaqué",
-        "partido": "Alianza para el Progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
         "img": "congre/jhosept_amado.jpg",
         "nombre": "Jhosept Amado Pérez Mimbela",
-        "partido": "Alianza para el Progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
         "img": "congre/lusmila_perez.jpg",
         "nombre": "Lusmila Pérez Espíritu",
-        "partido": "Alianza para el Progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
         "img": "congre/maria_omonte.jpg",
         "nombre": "María del Carmen Omonte Durand",
-        "partido": "Alianza para el Progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
         "img": "congre/fernando_melendez.jpg",
         "nombre": "Fernando Meléndez Celis",
-        "partido": "Alianza para el Progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
         "img": "congre/alexander_hidalgo.jpg",
         "nombre": "Alexander Hidalgo Zamalloa",
-        "partido": "Alianza para el Progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
         "img": "congre/omar_merino.jpg",
         "nombre": "Omar Merino López",
-        "partido": "Alianza para el Progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
         "img": "congre/moises_gonzalez.jpeg",
         "nombre": "Moisés González Cruz",
-        "partido": "Alianza para el Progreso"
+        "partido": "No Agrupados",
+        "voto": "F"
     },
     {
         "img": "congre/julio_condori.jpeg",
         "nombre": "Julio Fredy Condorí Flores",
-        "partido": "Alianza para el Progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
         "img": "congre/cesar_combina.jpg",
         "nombre": "César Augusto Combina Salvatierra",
-        "partido": "Alianza para el Progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
         "img": "congre/irene_carcausto.jpg",
         "nombre": "Irene Carcausto Huanca",
-        "partido": "Alianza para el Progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
         "img": "congre/humberto_acuna.jpg",
         "nombre": "Humberto Acuña Peralta",
-        "partido": "Alianza para el Progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
         "img": "congre/luis_simeon.jpg",
         "nombre": "Luis Carlos Simeón Hurtado",
-        "partido": "Acción Popular"
+        "partido": "Acción Popular",
+        "voto": "F"
     },
     {
         "img": "congre/walter_benavides.jpeg",
         "nombre": "Walter Benavides Gavidia",
-        "partido": "Alianza para el Progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
         "img": "congre/eduardo_acate.jpeg",
         "nombre": "Eduardo Geovanni Acate Coronel",
-        "partido": "Alianza para el Progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
         "img": "congre/franco_salinas.jpg",
-        "nombre": "Franco Salinas. López",
-        "partido": "Acción Popular"
+        "nombre": "Franco Salinas López",
+        "partido": "Acción Popular",
+        "voto": "F"
     },
     {
         "img": "congre/monica_saavedra.jpg",
         "nombre": "Mónica Elizabeth Saavedra Ocharán",
-        "partido": "Acción Popular"
+        "partido": "Acción Popular",
+        "voto": "F"
     },
     {
         "img": "congre/rolando_ruiz.jpg",
         "nombre": "Rolando Rubén Ruiz Pinedo",
-        "partido": "Acción Popular"
+        "partido": "Acción Popular",
+        "voto": "F"
     },
     {
         "img": "congre/walter_rivera.jpeg",
         "nombre": "Walter Jesús Rivera Guerra",
-        "partido": "Acción Popular"
+        "partido": "Acción Popular",
+        "voto": "F"
     },
     {
         "img": "congre/carlos_perez.jpeg",
         "nombre": "Carlos Andrés Pérez Ochoa",
-        "partido": "Acción Popular"
+        "partido": "Acción Popular",
+        "voto": "F"
     },
     {
         "img": "congre/rosario_eyzaguirre.jpg",
         "nombre": "Rosario Paredes Eyzaguirre",
-        "partido": "Acción Popular"
+        "partido": "Acción Popular",
+        "voto": "F"
     },
     {
         "img": "congre/juan_oyola.jpg",
         "nombre": "Juan Carlos Oyola Rodríguez",
-        "partido": "Acción Popular"
+        "partido": "Acción Popular",
+        "voto": "F"
     },
     {
         "img": "congre/anthony_novoa.jpg",
         "nombre": "Anthony Renson Novoa Cruzado",
-        "partido": "Acción Popular"
+        "partido": "Acción Popular",
+        "voto": "F"
     },
     {
         "img": "congre/freddy_romero.jpg",
         "nombre": "Freddy Llaulli Romero",
-        "partido": "Acción Popular"
+        "partido": "Acción Popular",
+        "voto": "F"
     },
     {
         "img": "congre/yessy_fabian.jpeg",
         "nombre": "Yessy Nélida Fabián Díaz",
-        "partido": "Acción Popular"
+        "partido": "Acción Popular",
+        "voto": "F"
     },
     {
         "img": "congre/kenyon_bustamante.jpg",
         "nombre": "Kenyon Eduardo Bustamante Durand",
-        "partido": "Acción Popular"
+        "partido": "Acción Popular",
+        "voto": "F"
     },
     {
         "img": "congre/paul_garcia.jpg",
         "nombre": "Paul Gabriel García Oviedo",
-        "partido": "Acción Popular"
+        "partido": "Acción Popular",
+        "voto": "F"
     },
     {
         "img": "congre/otto_arteaga.jpg",
         "nombre": "Otto Napoleón Guibovich Arteaga",
-        "partido": "Acción Popular"
+        "partido": "Acción Popular",
+        "voto": "F"
     },
     {
         "img": "congre/leonardo_inga.jpg",
         "nombre": "Leonardo Inga Sales",
-        "partido": "Acción Popular"
+        "partido": "Acción Popular",
+        "voto": "F"
     },
     {
         "img": "congre/ricardo_burga.jpg",
         "nombre": "Ricardo Miguel Burga Chuquipiondo",
-        "partido": "Acción Popular"
+        "partido": "Acción Popular",
+        "voto": "F"
     },
     {
         "img": "congre/wilmer_bajonero.jpeg",
         "nombre": "Wilmer Solís Bajonero Olivas",
-        "partido": "Acción Popular"
+        "partido": "Acción Popular",
+        "voto": "F"
     },
     {
         "img": "congre/jesus_arapa.jpg",
         "nombre": "Jesús Orlando Arapa Roque",
-        "partido": "Acción Popular"
+        "partido": "Acción Popular",
+        "voto": "F"
     },
     {
         "img": "congre/jose_luna.jpg",
-        "nombre": "José Luna Morales",
-        "partido": "Podemos Perú"
+        "nombre": "José Luis Luna Morales",
+        "partido": "Podemos Perú",
+        "voto": "F"
     },
     {
         "img": "congre/omar_chehade.jpg",
         "nombre": "Omar Chehade Moya",
-        "partido": "Alianza para el Progreso"
+        "partido": "Alianza para el Progreso",
+        "voto": "F"
     },
     {
-        "img": "congre/manuel_merino.jpg",
-        "nombre": "Manuel Merino De Lama",
-        "partido": "Acción Popular"
+        "img": "congre/walter_ascona_calderon.jpg",
+        "nombre": "Walter Yonni Ascona Calderon",
+        "partido": "Alianza para el Progreso",
+        "voto": "A"
+    },
+    {
+        "img": "congre/lenin_bazan_villanueva.jpg",
+        "nombre": "Lenin Fernando Bazan Villanueva",
+        "partido": "Frente Amplio",
+        "voto": "F"
+    },
+    {
+        "img": "congre/arlette_contreras_bautista.jpg",
+        "nombre": "Cindy Arlette Contreras Bautista",
+        "partido": "No Agrupados",
+        "voto": "A"
+    },
+    {
+        "img": "congre/leslye_carol_lazo_villon.jpg",
+        "nombre": "Leslye Carol Lazo Villon",
+        "partido": "Acción Popular",
+        "voto": "A"
+    },
+    {
+        "img": "congre/richard_rubio_gariza.jpg",
+        "nombre": "Richard Rubio Gariza",
+        "partido": "FREPAP",
+        "voto": "A"
+    },
+    {
+        "img": "congre/hans_troyes_delgado.jpg",
+        "nombre": "Hans Troyes Delgado",
+        "partido": "Acción Popular",
+        "voto": "A"
     }
 ]
