@@ -1,5 +1,11 @@
 [
     {
+        "img": "congre/manuel_merino.jpg",
+        "nombre": "Manuel Merino De Lama",
+        "partido": "Acción Popular",
+        "voto": "A"
+    },
+    {
         "img": "congre/peri_rivas.jpg",
         "nombre": "Perci Rivas Ocejo",
         "partido": "Alianza para el Progreso",
@@ -622,12 +628,6 @@
         "nombre": "Omar Chehade Moya",
         "partido": "Alianza para el Progreso",
         "voto": "F"
-    },
-    {
-        "img": "congre/manuel_merino.jpg",
-        "nombre": "Manuel Merino De Lama",
-        "partido": "Acción Popular",
-        "voto": "A"
     },
     {
         "img": "congre/walter_ascona_calderon.jpg",
