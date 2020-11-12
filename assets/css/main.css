@@ -845,6 +845,19 @@
 				opacity: 0;
 				position: relative;
 				width: 25%;
+				padding: 5px;
+			}
+
+			.caption.caption-favor {
+				background: black;
+				color: white;
+				padding: 10px;
+			}
+
+			.caption.caption-abstencion {
+				background: rgb(48, 1, 1);
+				color: white;
+				padding: 10px;
 			}
 
 				.gallery .content .media.hidden {
@@ -1616,3 +1629,107 @@
 			}
 
 		}
+
+.icon-escarapela {
+	background-image: url('/images/escarapela.png');
+	width: 45px;
+	height: 45px;
+	display: block;
+	background-size: cover;
+    margin: auto;
+}
+
+.icon-partido {
+	width: 25px;
+	height: 25px;
+	display: inline-block;
+	background-size: cover;
+    margin-bottom: -7px;
+}
+
+.icon-ap {
+	background-image: url('/images/logos/ap.png');
+}
+
+.icon-app {
+	background-image: url('/images/logos/app.png');
+}
+.icon-fa {
+	background-image: url('/images/logos/fa.png');
+}
+.icon-fp {
+	background-image: url('/images/logos/fp.png');
+}
+.icon-frepap {
+	background-image: url('/images/logos/frepap.png');
+	width: 60px;
+}
+.icon-pp {
+	background-image: url('/images/logos/pp.jpg');
+	width: 30px;
+}
+.icon-sp {
+	background-image: url('/images/logos/sp.png');
+}
+.icon-upp {
+	background-image: url('/images/logos/upp.png');
+}
+
+form {
+	color: black;
+}
+
+form label {
+	color: white;
+}
+
+.form-group-half {
+    /* max-width: 50%; */
+    float: left;
+    display: inline-flex;
+}
+
+.form-group-half select {
+    width: 25vw;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+.form-group {
+	clear:both;
+}
+
+.icon-wp {
+	background-image: url('/images/wp.png');
+	width: 30px;
+	height: 25px;
+	display: inline-block;
+	background-size: cover;
+}
+
+.icon-fb {
+	background-image: url('/images/fb.png');
+	width: 25px;
+	height: 25px;
+	display: inline-block;
+	background-size: cover;
+}
+
+.btn-fb, .btn-wp {
+	float: left;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding: 5px
+}
+
+.btn-fb {
+	background-color: #3e63b5;
+	cursor: pointer;
+	margin-right: -9vw;
+    margin-left: 9vw;
+}
+
+.btn-wp {
+	background-color: #25d366;
+	margin-left: 15vw;
+}
